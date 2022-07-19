@@ -71,6 +71,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+
 flutter_icons:
   android: true
   ios: true
